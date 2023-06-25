@@ -9130,6 +9130,15 @@
     githubId = 1572058;
     name = "Leonardo Cecchi";
   };
+  handle = {
+    name = "Leonardo Neumann";
+    email = "leonardo@neumann.dev.br";
+    github = "leonardohn";
+    githubId = 11236344;
+    keys = [{
+      fingerprint = "184C D6DE 290B A2FB 0DC5  A88D 4317 6560 81BA 7EB4";
+    }];
+  };
   leonid = {
     email = "belyaev.l@northeastern.edu";
     github = "leonidbelyaev";
